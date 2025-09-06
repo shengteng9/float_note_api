@@ -1,6 +1,6 @@
 # FloatNote API
 
-一个基于Django和MongoDB的现代化记录管理系统API后端。
+一个基于Django和MongoDB的现代化信息分类API。
 
 ## 项目概述
 
